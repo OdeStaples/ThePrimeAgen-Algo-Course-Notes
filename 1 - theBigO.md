@@ -129,3 +129,7 @@ function sum_char_codes(n: string): number {
 # O(log n)
 
 - Binary search trees
+
+# Meme Time
+
+![Big-O Meme](./thatsawaytolearnbigoh-v0-5e81gi4sjbkc1.png)
